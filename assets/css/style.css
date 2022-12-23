@@ -226,6 +226,10 @@ display: block;
     width: 800px;
     padding: 64px 0;
     margin-left: auto; margin-right: auto; /*đẩy sang trái phải auto-căng giữa*/
+    /*Tablet Responsive*/
+    max-width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
 
 }
 
